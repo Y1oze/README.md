@@ -136,6 +136,11 @@
   line-height: 25.83px; 
   white-space: nowrap;
 }
+
+address{
+  display: block; 
+  font-style: normal;
+}
   
 
 
