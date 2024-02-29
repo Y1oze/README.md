@@ -57,6 +57,9 @@
   position: relative;
   width: 1100px;
   margin: 94px 0px 179px 0px;
+  background-image: url("../images/cover.jpg");
+  background-position: center;
+  background-size:cover;
   }
 
 .cover_photo {
