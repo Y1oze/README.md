@@ -1,1 +1,1 @@
-https://github.com/Y1oze/README.md.git
+https://github.com/Y1oze/ono-tebe-nado.git
