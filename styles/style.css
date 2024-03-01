@@ -57,7 +57,6 @@ a {
   background-image: url("../images/cover.jpg");
   background-position: center;
   background-size: cover;
-  width: 100%;
   padding: 170px 50px 51px 50px;
   flex-direction: column;
   justify-content: space-between;
